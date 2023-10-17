@@ -5,8 +5,8 @@ Effective Date: 16.10.2023
 
 ## Conditions
 General conditions regarding Chaewon bot:
-- 1. Our terms and conditions apply to each and every user of Chaewon Bot.
-- 2. By adding Chaewon bot in your server, you agree to these terms of service and the future terms which we may add after a notice.
+1. Our terms and conditions apply to each and every user of Chaewon Bot.
+2. By adding Chaewon bot in your server, you agree to these terms of service and the future terms which we may add after a notice.
 
 
 # Terms of service
