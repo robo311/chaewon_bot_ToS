@@ -14,7 +14,7 @@ These terms of service ("Terms") govern your use of the Chaewon Discord Bot (the
 
 ## 1. Use of the Bot
 
-- 1.1 You must be at least 13 years old to use the Bot. If you are under 13, you are violating Discord ToS and you should not use our bot.
+- You must be at least 13 years old to use the Bot. If you are under 13, you are violating Discord ToS and you should not use our bot.
 - 1.2 You may use the Bot for non-commercial and personal use only. You may not use the Bot for any commercial purposes, including but not limited to selling, licensing, or otherwise profiting from the Bot.
 - 1.3 You are responsible for all activity conducted through your Discord account when using the Bot.
 - 1.4 Intentional command spam or attemps to crash the bot are heavily forbidden. 
